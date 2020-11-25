@@ -1,0 +1,17 @@
+﻿"ID задачи","Проект","Теги","Заголовок","Заявитель","Создана","Обновлена","Завершенная","Priority","Type","State","Assignee","Subsystem","Fix versions","Affected versions","Fixed in build","Описание","Голоса"
+"CALCULATOR-41","CALCULATOR","","Salnikov( Operations with 0% - 7)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","Returns the result x * 0% = 1","0"
+"CALCULATOR-40","CALCULATOR","","Salnikov(Operations with 100% - 3)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","Returns the result x * 100% = x * x + 1","0"
+"CALCULATOR-39","CALCULATOR","","Salnikov(Fractional numbers, division)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","24.6 divided by 3 equals 8.200000000000001","0"
+"CALCULATOR-38","CALCULATOR","","Salnikov( Fractional numbers, multiplication)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","88 times 8.8 equals 775.4000000000001","0"
+"CALCULATOR-37","CALCULATOR","","Salnikov( Fractional numbers, subtraction)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","12,8 minus 6,2 equals 6.6000000000000005","0"
+"CALCULATOR-36","CALCULATOR","","Salnikov( Integers, multiplication)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","As a result of multiplying 14 * 3, we got the answer 43","0"
+"CALCULATOR-35","CALCULATOR","","Salnikov( Checking digit input)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","Press all buttons from 9 to 0 in sequence.
+The numbers 986543210 appeared on the screen.","0"
+"CALCULATOR-34","CALCULATOR","","Salnikov( Calculate the square root - 5)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Unassigned","No Subsystem","Unscheduled","Unknown","Next Build","1. Enter number 9
+2. Press the button "" sqrt ""
+3. Copy the received number to the clipboard
+4. Press the button "" * ""
+5. Enter the number from the clipboard
+6. Press the button "" = ""
+The number 1 is displayed on the results screen","0"
+"CALCULATOR-33","CALCULATOR","","Salnikov(Number sign change - 3)","Team3","9 Nov 2020","9 Nov 2020",,"Normal","Bug","Submitted","Team3","No Subsystem","Unscheduled","Unknown","Next Build","Enter the number ""0"". When you press the ""+/-"" button, the numbers from the display will disappear, the program does not react to anything","0"
